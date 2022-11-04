@@ -4,7 +4,7 @@
   
 
 <div align="center"><h3>🎯 I'm Charan Teja , a passionate undergrad 💻 ready to work remotely 👨‍💻 </h3></div>  
-<div align="center"><h3>Ready to work remotely 👨‍💻 </h3></div>  
+<div align="center"><h3>👨‍💻 Ready to work remotely 👨‍💻 </h3></div>  
 
 
 <br/>
