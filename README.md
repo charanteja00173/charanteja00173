@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🎓 I'm currently pursuing my bachelor's degree.
+- 🎓 I'm currently pursuing my bachelor's degree
   
 
 - ⚡ Fun fact: I pronounce django as D"jango😅  
