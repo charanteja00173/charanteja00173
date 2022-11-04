@@ -12,7 +12,7 @@
 - 🎓 I'm currently pursuing my bachelor's degree
   
 
-- ⚡ Fun fact: I pronounce django as D"jango 😅  
+- ⚡ Fun fact: I pronounce django as d'jango 😅  
   
 
 <br/> 
