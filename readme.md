@@ -69,12 +69,9 @@
 <img src="https://komarev.com/ghpvc/?username=charanteja00173&&style=flat-square" align="left" />
 </div>
 <div align="right">
-            <a href="https://www.buymeacoffee.com/charanteja00173" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="right"
-                />
-            </a></div>
+<a href="https://www.buymeacoffee.com/charanteja00173" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="right"/></a>
+</div>
 <br>
 <br>
 <p align="center" ><b> ★[ɪᴅɴꜰꜰᴇᴍ]★ </b></p>
