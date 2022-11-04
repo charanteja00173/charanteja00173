@@ -1,21 +1,14 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
-</div>  
-<br>
-<div align="center"><h3>🎯 I'm Charan Teja , a passionate undergrad 👨‍🎓 </h3></div>  
-<div align="center"><h3> 💻 Ready to work remotely 👨‍💻 </h3></div>  
-<br>
-<div align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 100%"/>
 </div>  
-
-
+<div align="center"><h3>🎯 I'm Charan Teja , a passionate undergrad 👨‍🎓 </h3></div>  
+<div align="center"><h3> 💻 Ready to work remotely 👨‍💻 </h3></div>  
 <br/>
 
-- 🎓 I'm currently pursuing my bachelor's degree
+<h3> &#10687  I'm currently pursuing my bachelor's degree 🎓</h3>
   
 
-- ⚡ Fun fact: I pronounce django as d'jango 😅  
+<h3> ⚡ Fun fact: I pronounce django as d'jango 😅 </h3>  
   
 
 <br/> 
