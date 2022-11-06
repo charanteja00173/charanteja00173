@@ -10,10 +10,9 @@
 
 <h3> &#10687  Fun fact : I pronounce django as d'jango 😅 </h3>  
   
+<br/>
 
-<br/> 
-
-## Knowledge & Skills
+## 💻Tech Stack
 
 <p align="center">
 <p align="left">
@@ -38,22 +37,16 @@
 <a href="https://www.blockchain.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/v1488050925/bhdemjvkug0k9rjqia9t.png" alt="Blockchain" width="40" height="40" /></a>
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/></a>  
 </p>
+<br/>
+<br/>
 
+## 📊GitHub Stats
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=charanteja00173&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
+![](https://github-readme-stats.vercel.app/api?username=charanteja00173&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=charanteja00173&theme=radical&hide_border=false)
 <br/>  
 
-  
-
-<br/>  
-
-<br/>  
-
-## Connect with me  
+## 🤝Connect With Me
 <div align="center">
 <a href="https://github.com/charanteja00173" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -64,7 +57,6 @@
 </a>  
 </div>  
 <br/>
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=charanteja00173&&style=flat-square" align="left" />
 </div>
