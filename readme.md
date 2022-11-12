@@ -5,7 +5,7 @@
 <div align="center"><h3> 💻 Ready to work remotely 👨‍💻 </h3></div>  
 <br/>
 
-<h3> &#10687  I'm currently pursuing my bachelor's degree 🎓</h3>
+<h3> &#10687  I'm currently pursuing my bachelor's 🎓</h3>
   
 
 <h3> &#10687  Fun fact : I pronounce django as d'jango 😅 </h3>  
