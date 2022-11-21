@@ -91,12 +91,13 @@
 <a href="https://github.com/charanteja00173" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/charanteja001" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
 <br/>
+<!--
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=charanteja00173&&style=flat-square" align="left" />
 </div>
@@ -106,5 +107,6 @@
 </div>
 <br>
 <br>
+-->
 <p align="center" ><b> ★[ɪᴅɴꜰꜰᴇᴍ]★ </b></p>
 
