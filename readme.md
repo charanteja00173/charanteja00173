@@ -7,7 +7,6 @@
 
 <h3> &#10687  I'm currently an undergraduate pursuing my bachelor's in computer science and engineering 💻🎓</h3>
 <h3> &#10687  Fun fact : I pronounce django as d'jango 😅 </h3>  
-<br/>
 
 # 💻Tech Stack
 
