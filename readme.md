@@ -54,10 +54,10 @@
 <a href="https://www.blockchain.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/v1488050925/bhdemjvkug0k9rjqia9t.png" alt="Blockchain" width="40" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a></br></br>
 # 👨‍💻 Internships :</br>
-## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="40" height="20" /></a> SalesForce Developer : 
+## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="40" height="20" /></a>SalesForce Developer : 
 ![Screenshot (147)](https://user-images.githubusercontent.com/97008491/203742165-5a1d7cdc-490a-4361-a214-4b5095d16570.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🔗 Link to view the Certificate :  [Salesforce_Developer_Certification](https://smartinternz.com/internships/salesforce_certificates/8d06969939c8f260b8d1db5b900f7653)
-<!--
+🔗 Link to view the Certificate : [Salesforce_Developer_Certification](https://smartinternz.com/internships/salesforce_certificates/8d06969939c8f260b8d1db5b900f7653)
+ <!--
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
