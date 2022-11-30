@@ -11,20 +11,20 @@
 # 💻Tech Stack
 
 ## Programming Languages
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204676862-a2161717-d4ed-4cf4-83a1-c2fd7828832c.png" alt="C++" width="30" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.V9ACnAqslzyMAy3OEZDXlQHaFj%26pid%3DApi&f=1&ipt=81ec516918aad0f9a2523d6fc9150dc48b1fece959613cabd3115e92521b429b&ipo=images" alt="Java" width="50" height="50"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204677751-f94898f2-3331-49a1-a361-7e1d6a64bfea.png" alt="Python" width="90" height="40"/> </a>
 
 ## Database Management
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204678125-b8d6371d-a596-4ee4-a2d5-3c70f2fc4176.jpg" alt="MySQL" width="70" height="50"></a>
 <!--
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>-->
 
 ## Web Development 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="35"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204679054-aab3c2c1-351d-4e79-9cec-c79bda3ee622.jpg" alt="HTML" width="40" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204678591-0120a302-b66a-4b84-b878-9c454022d2a7.jpg" alt="CSS" width="40" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204679250-bc430103-daa7-4c54-a17b-a7d6d195a551.jpg" alt="JavaScript" width="30" height="40"/> </a>
 <!--
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="33"/> </a>
@@ -49,7 +49,7 @@
 ## Familiar With : 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204679661-2d6f1b02-b4ef-43ee-a283-17d7fd400143.jpg" alt="aws" width="60" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.blockchain.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/v1488050925/bhdemjvkug0k9rjqia9t.png" alt="Blockchain" width="40" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a></br></br>
 <!--
