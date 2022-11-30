@@ -12,7 +12,7 @@
 
 ## Programming Languages
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204676862-a2161717-d4ed-4cf4-83a1-c2fd7828832c.png" alt="C++" width="30" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.V9ACnAqslzyMAy3OEZDXlQHaFj%26pid%3DApi&f=1&ipt=81ec516918aad0f9a2523d6fc9150dc48b1fece959613cabd3115e92521b429b&ipo=images" alt="Java" width="50" height="50"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204680324-358b9ad0-cb23-4565-881b-9c3bc95f8a30.jpg" alt="Java" width="50" height="45"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204677751-f94898f2-3331-49a1-a361-7e1d6a64bfea.png" alt="Python" width="90" height="40"/> </a>
 
 ## Database Management
