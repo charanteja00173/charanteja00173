@@ -50,14 +50,15 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97008491/204679661-2d6f1b02-b4ef-43ee-a283-17d7fd400143.jpg" alt="aws" width="60" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.blockchain.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/v1488050925/bhdemjvkug0k9rjqia9t.png" alt="Blockchain" width="40" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a></br></br>
-<!--
 # 👨‍💻 Internships </br>
 ## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="40" height="20" /></a> Salesforce Developer Intern : 
 ![Screenshot (147)](https://user-images.githubusercontent.com/97008491/203742165-5a1d7cdc-490a-4361-a214-4b5095d16570.png)
 </br>
 ### 🔗 View Certificate of proof : [Salesforce_Developer_Certification](https://smartinternz.com/internships/salesforce_certificates/8d06969939c8f260b8d1db5b900f7653)
 </br>
-## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a> Mapping Tech labs Intern :
+<!--
+## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a> 
+Mapping Tech labs Intern :
 ### 🔗 View Certificate of proof : [Mapping_tech_certificatioin](https://drive.google.com/file/d/10_1SdwsurpKoeU2GGjcEIQQ1psbnd2Vf/view?usp=sharing)
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
