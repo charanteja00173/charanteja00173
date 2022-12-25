@@ -54,7 +54,7 @@
 ## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="40" height="20" /></a> Salesforce Developer Intern : 
 ![Screenshot (147)](https://user-images.githubusercontent.com/97008491/203742165-5a1d7cdc-490a-4361-a214-4b5095d16570.png)
 </br>
-### 🔗 View Certificate of proof : [Salesforce_Developer_Certification](https://smartinternz.com/internships/salesforce_certificates/8d06969939c8f260b8d1db5b900f7653)
+### 🔗 View Certificate : [Salesforce_Developer_Certification](https://smartinternz.com/internships/salesforce_certificates/8d06969939c8f260b8d1db5b900f7653)
 </br>
 <!--
 ## <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a> 
