@@ -2,10 +2,12 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 60%"/>
 </div>  
 <div align="center"><h3>🎯 Hey 👋 I'm Charan Teja , a passionate and aspiring Software Engineer 👨‍🎓 </h3></div>  
+<div align="center"><h3> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="18" height="14"/> </a> Flutter Developer</h3></div>
 <div align="center"><h3> 💻 Available for remote work 👨‍💻 </h3></div>  
 <br/>
 
 <h3> &#10687  I'm currently an undergraduate pursuing bachelor's in computer science and engineering 💻🎓</h3>
+<h3> &#10687 Currently Working on Blockchain Technology</h3>
 <h3> &#10687  Fun fact : I pronounce django as d'jango 😅 </h3>  
 
 
