@@ -7,9 +7,8 @@
 <br/>
 
 <h3> &#10687  I'm currently an undergraduate pursuing bachelor's in computer science and engineering 💻🎓</h3>
-<h3> &#10687 Currently Working on Blockchain Technology</h3>
+<h3> &#10687  Currently working on a project idea which will be based on blockchain and will be developed using flutter</h3>
 <h3> &#10687  Fun fact : I pronounce django as d'jango 😅 </h3>  
-
 
 # 💻Tech Stack
 ## Programming Languages
