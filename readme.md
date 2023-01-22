@@ -129,8 +129,7 @@ Mapping Tech labs Intern :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/charanteja001" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="charan-teja-perala-327163221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/charan-teja-perala-327163221?trk=profile-badge">Charan Teja Perala</a></div>         
+</a>           
 </div>  
 <p align="center" ><b> ★[ɪᴅɴꜰꜰᴇᴍ]★ </b></p>
 
