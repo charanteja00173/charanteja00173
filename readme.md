@@ -71,14 +71,14 @@ Mapping Tech labs Intern :
 
 <a href="https://www.blockchain.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/v1488050925/bhdemjvkug0k9rjqia9t.png" alt="Blockchain" width="40" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" width="60" height="40" /></a>
+
 - 📫 How to reach me **peralacharanteja001@gmail.com**
+
 ## Framework
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  
-
 ## Testing
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
@@ -87,6 +87,35 @@ Mapping Tech labs Intern :
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 <br/>
 -->
+
+## 📊GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=charanteja00173&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=charanteja00173&theme=radical&hide_border=false)
+<br/>
+## 🤝Connect With Me
+<div align="center">
+<a href="https://github.com/charanteja00173" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/charanteja001" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="charan-teja-perala-327163221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/charan-teja-perala-327163221?trk=profile-badge">Charan Teja Perala</a></div>         
+</div>  
+<br/>
+<!--
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=charanteja00173&&style=flat-square" align="left" />
+</div>
+<div align="right">
+<a href="https://www.buymeacoffee.com/charanteja00173" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="right"/></a>
+</div>
+<br>
+<br>
+-->
+
 ## 📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=charanteja00173&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
@@ -101,18 +130,7 @@ Mapping Tech labs Intern :
 <a href="https://instagram.com/charanteja001" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="charan-teja-perala-327163221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/charan-teja-perala-327163221?trk=profile-badge">Charan Teja Perala</a></div>         
 </div>  
-<br/>
-<!--
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=charanteja00173&&style=flat-square" align="left" />
-</div>
-<div align="right">
-<a href="https://www.buymeacoffee.com/charanteja00173" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="right"/></a>
-</div>
-<br>
-<br>
--->
 <p align="center" ><b> ★[ɪᴅɴꜰꜰᴇᴍ]★ </b></p>
 
